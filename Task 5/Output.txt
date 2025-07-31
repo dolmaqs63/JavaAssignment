@@ -1,0 +1,21 @@
+---- Singleton Pattern ----
+Connected to Database
+Using the same DB instance
+Using the same DB instance
+Same instance? true
+
+---- Factory Pattern ----
+Role: Customer
+Role: Admin
+Role: Delivery Partner
+
+---- Observer Pattern ----
+Customer notified: Order Placed
+Restaurant notified: Order Placed
+Delivery notified: Order Placed
+Customer notified: Out for Delivery
+Restaurant notified: Out for Delivery
+Delivery notified: Out for Delivery
+Customer notified: Delivered
+Restaurant notified: Delivered
+Delivery notified: Delivered
