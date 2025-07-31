@@ -1,0 +1,17 @@
+All Library Books:
+[1984 by George Orwell, ISBN: ISBN001]
+[To Kill a Mockingbird by Harper Lee, ISBN: ISBN002]
+[The Great Gatsby by F. Scott Fitzgerald, ISBN: ISBN003]
+[Java Programming by James Gosling, ISBN: ISBN004]
+
+ Borrowed Books:
+[The Great Gatsby by F. Scott Fitzgerald, ISBN: ISBN003]
+[To Kill a Mockingbird by Harper Lee, ISBN: ISBN002]
+[1984 by George Orwell, ISBN: ISBN001]
+
+ Member-wise Borrowed Books:
+Member ID: 101
+  -> [1984 by George Orwell, ISBN: ISBN001]
+  -> [To Kill a Mockingbird by Harper Lee, ISBN: ISBN002]
+Member ID: 102
+  -> [The Great Gatsby by F. Scott Fitzgerald, ISBN: ISBN003]

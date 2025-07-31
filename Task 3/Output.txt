@@ -1,0 +1,9 @@
+Enter Student Name: Dolma
+Enter Marks (0-100): 80
+
+--- Student Report ---
+Name  : Dolma
+Marks : 80
+Grade : B
+
+Process completed. Thank you!

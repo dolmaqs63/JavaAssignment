@@ -1,0 +1,12 @@
+Alice is managing a team of 5 people.
+Bob is writing code in Java.
+Charlie is assisting with tasks from Tech University.
+Name: Alice, ID: 101, Salary: $80000.0
+Name: Bob, ID: 102, Salary: $60000.0
+Name: Charlie, ID: 103, Salary: $20000.0
+Alice approved the project budget.
+Bob is developing software.
+Charlie is attending training sessions.
+Manager Tax: $20000.0
+Developer Tax: $12000.0
+Intern Tax: $2000.0

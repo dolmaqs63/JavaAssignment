@@ -1,0 +1,11 @@
+Welcome to Nepal Rastra Bank Bank!
+Customer Name: Prabin Nepali
+Age: 23
+Account Number: 1234567889
+Balance: Rs. 5000.0
+
+ After Transaction:
+Customer Name: Prabin Nepali
+Age: 23
+Account Number: 1234567889
+Balance: Rs. 4500.0
